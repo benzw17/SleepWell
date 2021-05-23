@@ -18,8 +18,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Video2Scene.unity
     guid: 0f16f934c416e4b4b8e4675cae13e405
   - enabled: 0
-    path: Assets/Scenes/Video High Quality Updated.unity
-    guid: 5c63c00bf5085c14eb5ff36070793823
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Scenes/FantasyScene.unity
     guid: c92fc8f6ca6d53b4ead6f54ea7aaf180
@@ -27,12 +27,12 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/VideoOceanScene.unity
-    guid: 4c4829586f4be9244affa55b7656f3b5
-  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
     path: Assets/Scenes/Video1Scene.unity
     guid: ee6883267340e914192d6d769e23293e
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Video3Scene.unity
     guid: 663fc43f76cd8ca4faf793358eb0de93
   m_configObjects:
